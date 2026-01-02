@@ -1,0 +1,7 @@
+{
+  "name": "SecureWiper Enterprise Edition",
+  "description": "NIST SP 800-88 compliant data erasure simulator & forensic certificate generator. Features AI-powered security auditing and high-fidelity JSON-to-PDF conversion.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
